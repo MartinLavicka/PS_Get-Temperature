@@ -1,5 +1,5 @@
 # PS_Get-Temperature
-* *Get temperature with PowerShell* *
+*Get temperature with PowerShell*
 
 Save in your c:\users\yourName\Documents\WindowsPowerShell\modules\ directory
 in sub directory get-temperature as get-temperature.psm1
